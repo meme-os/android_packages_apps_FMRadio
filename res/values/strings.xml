@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014 The Android Open Source Project
+     Copyright (c) 2019 The MemeOS Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,7 +18,7 @@
 
 <resources>
     <!-- Application name shown in Launcher [CHAR LIMIT=20] -->
-    <string name="app_name">FM Radio</string>
+    <string name="app_name">Meme Radio</string>
     <!-- Toast message shown after we refresh radio stations successfully [CHAR LIMIT=50] -->
     <string name="toast_station_searched">Searched out available stations:</string>
     <!-- Toast message shown after we refresh radio stations failed [CHAR LIMIT=50] -->
@@ -63,10 +64,10 @@
     <!-- The tips shown when we start recording [CHAR LIMIT=30] -->
     <string name="recording_tips">Recording…</string>
     <!-- The text "FM" shown in FM main screen [CHAR LIMIT=30] -->
-    <string name="fm_symbol">FM</string>
+    <string name="fm_symbol">Meme FM</string>
     <!-- Talkback message for the floating button which will play or stop FM sound
          [CHAR LIMIT=30] -->
-    <string name="fm_turn_on">Play or stop FM radio</string>
+    <string name="fm_turn_on">Play or stop Meme radio</string>
     <!-- Title of a menu item to start recording FM sound [CHAR LIMIT=30] -->
     <string name="fm_over_start_record">Start recording</string>
     <!-- Title of a menu item to see the saved recordings in play music  [CHAR LIMIT=30] -->
